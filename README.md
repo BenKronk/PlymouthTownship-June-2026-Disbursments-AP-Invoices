@@ -7,8 +7,6 @@ Board of Trustees packet. The project covers the full pipeline: extracting struc
 data from a layout-oriented PDF, validating it against the source, mapping municipal
 account codes to readable names, and modeling it for interactive analysis.
 
-![Dashboard preview](PlymouthTwpMI_June_2026_Disbursements-AP_Invoices.png)
-
 ---
 
 ## Overview
